@@ -1,0 +1,59 @@
+title : My Notes
+name: '정락현 의 작업노트'
+description: 'KBS영상원 원장의 작업일지'
+
+markdown: kramdown
+highlighter: rouge
+javascript_enabled: true
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+featured_posts_title: Unrelated
+featured_posts:
+  - url: '#'
+    title: 'Featured post #1'
+  - url: '#'
+    title: 'Featured post #2'
+  - url: '#'
+    title: 'Featured post #3'
+
+collections:
+  01js:
+    title: 프론트엔드
+    default_open: false
+    output: true
+  02python:
+    title: 파이썬
+    default_open: false
+    output: true
+  03ubuntu:
+    title: 우분투 서버
+    default_open: false
+    output: true
+
+defaults:
+  - scope:
+      type: 01js
+    values:
+      title: JavaScript & TypeScript
+      permalink: /js/:title
+  - scope:
+      type: 02python
+    values:
+      title: Django, Machine Learning of Python
+      permalink: /python/:title
+  - scope:
+      type: 03ubuntu
+    values:
+      title: ubuntu server and db
+      permalink: /ubuntu/:title
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
