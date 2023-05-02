@@ -1,9 +1,0 @@
----
-layout: blog
-title: Javascript
-tags:
-- react
-- chart
----
-
-자바스크립트 연습 정락현
