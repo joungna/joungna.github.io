@@ -1,5 +1,5 @@
 title : My Notes
-name: '정락현 의 작업노트'
+name: '정락현 글감노트'
 description: 'KBS영상원 원장의 작업일지'
 
 markdown: kramdown
@@ -21,35 +21,35 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  01js:
-    title: 프론트엔드
+  01fb:
+    title: 페이스북 글감
     default_open: false
     output: true
-  02python:
-    title: 파이썬
+  02blenderpython:
+    title: 블렌더 파이썬
     default_open: false
     output: true
-  03ubuntu:
-    title: 우분투 서버
+  03blockchainSTO:
+    title: 블록체인 토큰증권
     default_open: false
     output: true
 
 defaults:
   - scope:
-      type: 01js
+      type: 01fb
     values:
-      title: JavaScript & TypeScript
-      permalink: /js/:title
+      title: Facebook & Wordlore
+      permalink: /fb/:title
   - scope:
-      type: 02python
+      type: 02blenderpython
     values:
-      title: Django, Machine Learning of Python
-      permalink: /python/:title
+      title: Blender,Machine Learning of Python
+      permalink: /blenderpython/:title
   - scope:
-      type: 03ubuntu
+      type: 03blockchainSTO
     values:
-      title: ubuntu server and db
-      permalink: /ubuntu/:title
+      title: blockchain, STO
+      permalink: /blockchainSTO/:title
 
 
 plugins:
