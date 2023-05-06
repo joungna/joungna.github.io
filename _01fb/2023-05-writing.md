@@ -1,12 +1,3 @@
----
-layout: blog
-title: facebookwriting
-tags:
-- facebook
-- writing
-
----
-
 ## [A.I. Chatbots Hallucinate 는 원점부터 다시 고민해야할까요?]
 
 ### 마이크로소프트 등 많은 기업이 GPT-4라는  OpenAI의 LLM 기본 기술 위에 RLHF로  챗봇을 구축했는데,   
@@ -28,3 +19,6 @@ tags:
 </figure>
 
 ---
+
+## pandasAI 사용
+![covid](https://user-images.githubusercontent.com/44631748/236613487-b14d81ad-643b-41cd-9e81-d512fb4345a3.png)
