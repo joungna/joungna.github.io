@@ -1,6 +1,6 @@
 title : My Notes
 name: '정락현 글감노트'
-description: 'KBS영상원 원장의 작업일지'
+description: 'KBS비즈니스영상원 원장의 작업일지'
 
 markdown: kramdown
 highlighter: rouge
@@ -30,7 +30,7 @@ collections:
     default_open: false
     output: true
   03blockchainSTO:
-    title: 블록체인 토큰증권
+    title: 블록체인 STO
     default_open: false
     output: true
 
