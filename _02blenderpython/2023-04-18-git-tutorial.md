@@ -1,4 +1,10 @@
-
+---
+layout: blog
+title: Python
+tags:
+- python
+- package
+---
 ## 블렌더는 오픈소스 3D 제작 프로그램
  
 [블렌더 소개 페이지](https://docs.blender.org/manual/ko/dev/getting_started/about/introduction.html#who-uses-blender)
