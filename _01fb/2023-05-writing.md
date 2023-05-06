@@ -21,4 +21,5 @@
 ---
 
 ## pandasAI 사용
+데이터 분석
 ![covid](https://user-images.githubusercontent.com/44631748/236613487-b14d81ad-643b-41cd-9e81-d512fb4345a3.png)
