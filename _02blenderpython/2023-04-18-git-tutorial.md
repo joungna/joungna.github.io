@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Python
+title: 블렌더는 오픈소스 소개
 tags:
 - python
 - package
