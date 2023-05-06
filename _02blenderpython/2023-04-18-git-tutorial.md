@@ -1,23 +1,10 @@
----
-layout: blog
-title: Python
-tags:
-- python
-- package
----
 
-[파이썬 공식문서](https://docs.python.org/ko/3/tutorial/classes.html)
+## 블렌더는 무료 오픈소스 3D 제작 프로그램
+ 
+[블렌더 소개 페이지](https://docs.blender.org/manual/ko/dev/getting_started/about/introduction.html#who-uses-blender)
+Blender는 무료 오픈 소스 3D 제작 제품군입니다.
+![호랑이 제작 그림](https://docs.blender.org/manual/ko/dev/_images/getting-started_about_introduction_screenshot.jpg)
 
-```bash
-$ pip install --upgrade wheel
-$ pip install --upgrade build
-$ pip install --upgrade setuptools
-```
+Blender를 사용하면 정지 이미지, 3D 애니메이션 및 VFX 샷과 같은 3D 시각화를 만들 수 있습니다. 비디오를 편집할 수도 있습니다. 통합 파이프라인과 반응형 개발 프로세스의 이점을 누리는 개인 및 소규모 스튜디오에 매우 적합합니다.
 
-## Structure of Files
-```json
-├── pyproject.toml
-├── README.md
-├── setup.cfg
-└── setup.py
-```
+크로스 플랫폼 애플리케이션인 Blender는 Linux, macOS 및 Windows 시스템에서 실행됩니다. 또한 다른 3D 생성 제품군에 비해 메모리 및 드라이브 요구 사항이 상대적으로 적습니다. 인터페이스는 OpenGL을 사용하여 지원되는 모든 하드웨어 및 플랫폼에서 일관된 경험을 제공합니다.
