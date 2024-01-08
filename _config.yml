@@ -22,15 +22,15 @@ featured_posts:
 
 collections:
   01fb:
-    title: 페이스북 글감
+    title: 인공지능코딩과웹앱개발
     default_open: false
     output: true
   02blenderpython:
-    title: 블렌더 파이썬
+    title: 블렌더와생성인공지능
     default_open: false
     output: true
   03blockchainSTO:
-    title: 블록체인 STO
+    title: 비즈니스글감
     default_open: false
     output: true
 
