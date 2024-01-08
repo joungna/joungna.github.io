@@ -22,7 +22,7 @@ featured_posts:
 
 collections:
   01fb:
-    title: 페이스북 글감
+    title: 생성AI그래픽 글감
     default_open: false
     output: true
   02blenderpython:
