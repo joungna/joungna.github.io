@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "a986c6e75cd9d8e8",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "646b9a8c857eb65f",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "efde6cdd1d715376",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_01fb/2025-07-11일기장.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-07-11일기장"
+              "title": "새 탭"
             }
           }
         ]
@@ -194,10 +190,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "efde6cdd1d715376",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_01fb/2024-04-15.md",
     "_01fb/2025-07-11일기장.md",
+    "_01fb/2024-04-15.md",
     "_01fb/2023-04-20-test.md",
     "_02blenderpython/chap01-2.md",
     "_03blockchainSTO/2023-03-30-gcp-free.md",
