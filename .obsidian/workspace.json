@@ -15,7 +15,8 @@
               "state": {
                 "aFile": ".obsidian/workspace.json",
                 "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "aRef": "HEAD",
+                "bRef": ""
               },
               "icon": "diff",
               "title": "Diff: workspace.json"
@@ -196,6 +197,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "_01fb/옵시디언 사용법.md",
     "무제.md",
     "_01fb/2025-07-11일기장.md",
     "_01fb/2024-04-15.md",
