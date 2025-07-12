@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a40d71b7c352bc8b",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4153e895055cae16",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "aFile": "_01fb/옵시디언 사용법.md",
+                "bFile": "_01fb/옵시디언 사용법.md",
+                "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: 옵시디언 사용법"
             }
           }
         ]
@@ -187,15 +186,11 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false,
-      "homepage:Open homepage": false,
-      "obsidian-importer:Open Importer": false,
-      "dbfolder:Create a new database table": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "4153e895055cae16",
   "lastOpenFiles": [
     "_01fb/옵시디언 사용법.md",
     "무제.md",

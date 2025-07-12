@@ -4,13 +4,8 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "calendar",
-  "obsidian-kanban",
-  "obsidian-style-settings",
   "obsidian-git",
-  "remotely-save",
   "obsidian-minimal-settings",
-  "homepage",
   "obsidian-importer",
-  "obsidian-advanced-uri",
-  "dbfolder"
+  "obsidian-advanced-uri"
 ]
