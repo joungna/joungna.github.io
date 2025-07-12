@@ -11,14 +11,14 @@
             "id": "4153e895055cae16",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_01fb/옵시디언 사용법.md",
-                "bFile": "_01fb/옵시디언 사용법.md",
-                "aRef": ""
+                "file": "_01fb/2025-07-12.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 옵시디언 사용법"
+              "icon": "lucide-file",
+              "title": "2025-07-12"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "4153e895055cae16",
   "lastOpenFiles": [
+    "_01fb/2025-07-12.md",
     "_01fb/옵시디언 사용법.md",
     "무제.md",
     "_01fb/2025-07-11일기장.md",
