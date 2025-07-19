@@ -11,7 +11,7 @@ git commit -m "Initial commit" 명령어를 사용하여 커밋
 
 2.깃허브 저장소(Repository) 만들기,깃 저장소 복제하기
 GitHub에 로그인하고, 새 저장소를 생성
-<GitHub 저장소 주소> https://github.com/joungna/RobotBOOK.git
+<GitHub 저장소 주소> https://github.com/joungna/blockchainSTO.git
 로컬 저장소에서 원격 저장소를 추가: git remote add origin <GitHub 저장소 주소>
 git push -u origin main 명령어를 실행하여 로컬 저장소의 내용을 원격 저장소로 푸시
 로컬 터미널에서 GitHub 저장소의 메인 브랜치(main 또는 master)를 확인하려면 git branch 
@@ -21,12 +21,12 @@ git push -u origin main 명령어를 실행하여 로컬 저장소의 내용을 
 4.플러그인인 'Obsidian Git'을 사용 git 설치
   커뮤니티 플러그인에 Git 생성된것을 확인
 Custom Git binary path 에 복사한 Git repository의 링크를 붙여 
-https://github.com/joungna/RobotBOOK.git
+https://github.com/joungna/blockchainSTO.git
 
 5.깃허브 저장소 주소, 사용자 이름, 이메일 등 필요한 정보를 입력
-다음으로 push와 pull을 할 수 있게 Automatic 부분을 활성화하고 주기도 설정->수동으로 해도됨(`https://github.com/joungna/RobotBOOK.git` 같은 **GitHub URL**은 이 설정란에 **그대로 넣으면 안 됩니다**)
+다음으로 push와 pull을 할 수 있게 Automatic 부분을 활성화하고 주기도 설정->수동으로 해도됨(`https://github.com/joungna/blockchainSTO.git` 같은 **GitHub URL**은 이 설정란에 **그대로 넣으면 안 됩니다**)
 
-Custom base path	C:\Users\joungna\Obsidian\RobotBOOK ← 로컬 Vault 경로
+Custom base path	C:\Users\joungna\Obsidian\blockchainSTO ← 로컬 Vault 경로
 Custom Git directory path	.git 또는 비워두기
 Git 리포지터리 원격(remote) 주소, Obsidian Git 플러그인의 로컬 설정에는 사용하지 않습니다.
 

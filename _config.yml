@@ -29,7 +29,7 @@ collections:
     title: 블렌더 파이썬
     default_open: false
     output: true
-  03RobotBOOK:
+  03blockchainSTO:
     title: The Jobless Robotcoding
     default_open: false
     output: true
@@ -46,10 +46,10 @@ defaults:
       title: Blender,Machine Learning of Python
       permalink: /blenderpython/:title
   - scope:
-      type: 03RobotBOOK
+      type: 03blockchainSTO
     values:
       title: blockchain, STO
-      permalink: /RobotBOOK/:title
+      permalink: /blockchainSTO/:title
 
 
 plugins:
