@@ -30,7 +30,7 @@ collections:
     default_open: false
     output: true
   03blockchainSTO:
-    title: 블록체인 STO
+    title: The Jobless Robotcoding
     default_open: false
     output: true
 
