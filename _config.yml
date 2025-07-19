@@ -21,15 +21,15 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  _01fb:
+  01fb:
     title: 생성AI그래픽 글감
     default_open: false
     output: true
-  _02blenderpython:
+  02blenderpython:
     title: 블렌더 파이썬
     default_open: false
     output: true
-  _03blockchainsto:
+  03blockchainsto:
     title: The Jobless Robotcoding
     default_open: false
     output: true

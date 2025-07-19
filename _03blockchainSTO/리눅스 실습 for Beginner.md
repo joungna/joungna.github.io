@@ -1,4 +1,9 @@
-
+---
+layout: blog
+title: 리눅스 실습 
+tags:
+- 리눅스
+---
 ![[Pasted image 20250719172700.png]]
 
 **Chapter 01 리눅스의 개요와 환경 설정**  

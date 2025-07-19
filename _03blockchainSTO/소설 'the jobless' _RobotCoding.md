@@ -1,4 +1,9 @@
-
+---
+layout: blog
+title: the jobless 소설쓰기 
+tags:
+- jobless
+---
 ### 옵시디언 깃허브 연결 연동
 
 1.폴더와 vault 만들기

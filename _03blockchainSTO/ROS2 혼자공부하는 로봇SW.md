@@ -1,4 +1,10 @@
-
+---
+layout: blog
+title: ROS2 혼자공부하는 로봇SW
+tags:
+- ROS2
+- 로봇
+---
 ROS(Robot Operating System)2
 
 ROS의 기본적인 사용법에 집중할 것인데 그전에 Linux의 사용법을 간략하게 다룰 겁니다. ROS는 Ubuntu(Linux 기반의 OS)에서 아주 잘 동작하므로 Ubuntu의 사용법에 익숙해질 필요가 있기 때문입니다. 또한 URDF로 로봇을 기술하는 방법, Gazebo에서 시뮬레이션하는 방법과 아두이노를 ROS에서 이용하는 방법도 다음에 출판될 2권에서 다루려고 합니다.  
