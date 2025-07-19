@@ -8,63 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "020cb8d1c49bfc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_03blockchainSTO/ROS2 혼자공부하는 로봇SW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ROS2 혼자공부하는 로봇SW"
-            }
-          },
-          {
-            "id": "e01d3a4f11aecf29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_03blockchainSTO/임베디드 아두이노 시스템 SW.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "임베디드 아두이노 시스템 SW"
-            }
-          },
-          {
-            "id": "4cf73c1ef76d95d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_03blockchainSTO/리눅스 실습 for Beginner.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "리눅스 실습 for Beginner"
-            }
-          },
-          {
             "id": "9cb88ffd3db0ae6c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_03blockchainSTO/아두이노로봇 보난자.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "아두이노로봇 보난자"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +186,22 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9cb88ffd3db0ae6c",
+  "active": "4105687894730930",
   "lastOpenFiles": [
+    "_03blockchainsto/임베디드 아두이노 시스템 SW.md",
+    "_03blockchainsto/아두이노로봇 보난자.md",
+    "_03blockchainsto/소설 'the jobless' _RobotCoding.md",
+    "_03blockchainsto/리눅스 실습 for Beginner.md",
+    "_03blockchainsto/ROS2 혼자공부하는 로봇SW.md",
+    "_03blockchainsto",
+    "8_Template/2024-01-10.md",
+    "9_Attachment/Pasted image 20250719172700.png",
+    "9_Attachment/Copilot_20250716_144256-removebg-preview.png",
+    "9_Attachment",
+    "8_Template",
+    "7_Utility/옵시디언 사용법.md",
+    "7_Utility",
+    "6_Archives",
     "_03blockchainSTO/임베디드 아두이노 시스템 SW.md",
     "_03blockchainSTO/아두이노로봇 보난자.md",
     "_03blockchainSTO/소설 'the jobless' _RobotCoding.md",
@@ -252,20 +219,12 @@
     "_7_Utility/옵시디언 사용법.md",
     "_7_Utility",
     "_6_Archives",
-    "8_Template",
-    "7_Utility/옵시디언 사용법.md",
-    "7_Utility",
-    "6_Archives",
-    "9_Attachment/Copilot_20250716_144256-removebg-preview.png",
-    "9_Attachment",
-    "_03RobotBOOK/6_Archives",
     "_03RobotBOOK/9_Attachment/테슬라.png",
     "_03RobotBOOK/9_Attachment/robot8800.jpg",
     "_03RobotBOOK/9_Attachment/Pasted image 20250716155600.png",
     "_03RobotBOOK/9_Attachment/Pasted image 20250716155306.png",
     "_03RobotBOOK/9_Attachment/Pasted image 20250716155159.png",
     "_03RobotBOOK/9_Attachment/Pasted image 20250716155142.png",
-    "_03RobotBOOK/9_Attachment/Pasted image 20250716154313.png",
     "_03RobotBOOK/7_Utility/옵시디언 사용법.md",
     "_02blenderpython/chap01-5.md",
     "_01fb/2024-01-10.md",
@@ -274,12 +233,6 @@
     "_03blockchainSTO/2023-03-30-gcp-free.md",
     "the jobless_Robotcoding/the jobless_RobotCoding.md",
     "2024-01-10.md",
-    "README.md",
-    "_01fb/2025-07-12.md",
-    "_01fb/옵시디언 사용법.md",
-    "_01fb/2025-07-11일기장.md",
-    "_01fb/2024-04-15.md",
-    "_01fb/2023-04-20-test.md",
-    "_02blenderpython/chap01-2.md"
+    "README.md"
   ]
 }

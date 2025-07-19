@@ -21,15 +21,15 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  01fb:
+  _01fb:
     title: 생성AI그래픽 글감
     default_open: false
     output: true
-  02blenderpython:
+  _02blenderpython:
     title: 블렌더 파이썬
     default_open: false
     output: true
-  03blockchainSTO:
+  _03blockchainsto:
     title: The Jobless Robotcoding
     default_open: false
     output: true
@@ -46,10 +46,10 @@ defaults:
       title: Blender,Machine Learning of Python
       permalink: /blenderpython/:title
   - scope:
-      type: 03blockchainSTO
+      type: 03blockchainsto
     values:
-      title: blockchain, STO
-      permalink: /blockchainSTO/:title
+      title: blockchain, sto
+      permalink: /blockchainsto/:title
 
 
 plugins:
