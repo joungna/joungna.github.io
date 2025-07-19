@@ -1,6 +1,6 @@
 title : My Notes
 name: '정락현 글감노트'
-description: 'KBS비즈니스영상원 원장의 작업일지'
+description: '로봇코딩을 위한 실업자들 작업일지'
 
 markdown: kramdown
 highlighter: rouge
@@ -29,7 +29,7 @@ collections:
     title: 블렌더 파이썬
     default_open: false
     output: true
-  03blockchainSTO:
+  03RobotBOOK:
     title: The Jobless Robotcoding
     default_open: false
     output: true
@@ -46,10 +46,10 @@ defaults:
       title: Blender,Machine Learning of Python
       permalink: /blenderpython/:title
   - scope:
-      type: 03blockchainSTO
+      type: 03RobotBOOK
     values:
       title: blockchain, STO
-      permalink: /blockchainSTO/:title
+      permalink: /RobotBOOK/:title
 
 
 plugins:
