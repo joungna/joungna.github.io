@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Hacker News 스타일 기본값 */
+body {
+  background-color: #f6f6ef;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13px;
+  color: #1a1a1a;
+}
+
+a {
+  cursor: pointer;
+}
